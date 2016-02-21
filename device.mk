@@ -87,8 +87,8 @@ PRODUCT_PACKAGES += \
 
 # Audio
 PRODUCT_PACKAGES += \
-  libtinycompress \
-  libtinyalsa \
+  #libtinycompress
+  #libtinyalsa
   audio.a2dp.default \
   audio.primary.default \
   audio.r_submix.default \
